@@ -24,4 +24,4 @@ I worked on several projects using Golang, I work with a team consisting of back
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="http://www.github.com/Achmadqizwini"><img src="https://github-readme-stats.vercel.app/api?username=Achmadqizwini&show_icons=true&hide=&count_private=true&theme=tokyonight" alt="Achmadqizwini's GitHub stats" /></a>
+<a href="http://www.github.com/Achmadqizwini"><img src="https://achmad-qizwini.vercel.app//api?username=Achmadqizwini&show_icons=true&hide=&count_private=true&theme=tokyonight" alt="Achmadqizwini's GitHub stats" /></a>
