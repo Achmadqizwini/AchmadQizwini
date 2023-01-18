@@ -1,19 +1,15 @@
 <p>
-  <h1 align="center"><b>  Hi <img src="https://raw.githubusercontent.com/raorafarhan/raorafarhan/main/wave.gif" width="30px" height="30px" /> My name is Raora Farhan
-=============================
-
-I'am Backend Engineer
----------------------</b></h1>
+  <h1 align="center"><b>  Hi <img src="https://raw.githubusercontent.com/raorafarhan/raorafarhan/main/wave.gif" width="30px" height="30px" /> My name is Achmad Qizwini</b></h1>
 
 </p>
 
-I worked on several projects using Golang, I work with a team consisting of backend and frontend, Several things that I implemented in this project include Clean Architecture, Email notifications, and integration with Midtrans third-party services for payments gateway.
+I am a graduate of the immersive program at Alterra Academy as a Backend Engineer. I collaborated with other students to build some projects using Golang, Echo, Mysql, AWS, etc. It also implemented with clean architecture, deployment with CI/CD and Docker, Unit Test and more. I am interested in the technology industry especially in backend engineering and really looking forward to being able to collaborate in the technology industries.
 
 * 🌍  I'm based in East Java, Indonesia
 
 ## 🔧 Technologies & Tools
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="50" height="50"/> </a> </p>
 
 ## :iphone: Connect With Me
 
@@ -24,4 +20,4 @@ I worked on several projects using Golang, I work with a team consisting of back
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="http://www.github.com/Achmadqizwini"><img src="https://achmad-qizwini.vercel.app//api?username=Achmadqizwini&show_icons=true&hide=&count_private=true&theme=tokyonight" alt="Achmadqizwini's GitHub stats" /></a>
+<a href="http://www.github.com/Achmadqizwini"><img src="https://github-readme-stats.vercel.app/api?username=Achmadqizwini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="raorafarhan's GitHub stats" /></a>
