@@ -25,5 +25,3 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="http://www.github.com/Achmadqizwini"><img src="https://achmad-qizwini.vercel.app/api?username=Achmadqizwini&show_icons=true&hide=&count_private=true&theme=tokyonight" alt="Achmadqizwini's GitHub stats" /></a>
-
-<a href="http://www.github.com/raorafarhan"><img src="https://github-readme-stats.vercel.app/api?username=raorafarhan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="raorafarhan's GitHub stats" /></a>
