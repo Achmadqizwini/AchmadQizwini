@@ -13,6 +13,7 @@
 
 
 * 🌍  I'm based in Purbalingga, Central Java, Indonesia
+- 📫 How to reach me **achmadqizwini4@gmail.com**
 
 ## 🔧 Technologies & Tools
 
@@ -24,4 +25,4 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="http://www.github.com/Achmadqizwini"><img src="https://achmad-qizwini.vercel.app/api?username=Achmadqizwini&show_icons=true&hide=&count_private=true&theme=tokyonight" alt="Achmadqizwini's GitHub stats" /></a>
+<a href="http://www.github.com/Achmadqizwini"><img src="https://achmad-qizwini.vercel.app/api?username=Achmadqizwini&show_icons=true&hide=&count_private=true&theme=tokyonight" alt="Achmadqizwini's GitHub stats" /> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Achmadqizwini&layout=compact&langs_count=8&theme=algolia"/> </a>
