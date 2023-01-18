@@ -3,9 +3,12 @@
 
 </p>
 
-I am a graduate of the immersive program at Alterra Academy as a Backend Engineer. I collaborated with other students to build some projects using Golang, Echo, Mysql, AWS, etc. It also implemented with clean architecture, deployment with CI/CD and Docker, Unit Test and more. I am interested in the technology industry especially in backend engineering and really looking forward to being able to collaborate in the technology industries.
+<p>
+  <h3 align="center"><b> A Passionate Backend Developer</b></h3>
 
-* 🌍  I'm based in East Java, Indonesia
+</p>
+
+* 🌍  I'm based in Purbalingga, Central Java, Indonesia
 
 ## 🔧 Technologies & Tools
 
@@ -20,4 +23,4 @@ I am a graduate of the immersive program at Alterra Academy as a Backend Enginee
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="http://www.github.com/Achmadqizwini"><img src="https://github-readme-stats.vercel.app/api?username=Achmadqizwini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="raorafarhan's GitHub stats" /></a>
+<a href="http://www.github.com/Achmadqizwini"><img src="https://github-readme-stats.vercel.app/api?username=Achmadqizwini&show_icons=true&hide=&count_private=true&theme=tokyonight" alt="raorafarhan's GitHub stats" /></a>
