@@ -8,6 +8,8 @@
 
 </p>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="150" width="150"/></p>
+
 * 🌍  I'm based in Purbalingga, Central Java, Indonesia
 
 ## 🔧 Technologies & Tools
@@ -23,4 +25,4 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="http://www.github.com/Achmadqizwini"><img src="https://github-readme-stats.vercel.app/api?username=Achmadqizwini&show_icons=true&hide=&count_private=true&theme=tokyonight" alt="raorafarhan's GitHub stats" /></a>
+<a href="http://www.github.com/Achmadqizwini"><img src="https://github-readme-stats.vercel.app/api?username=Achmadqizwini&show_icons=true&hide=&count_private=true&theme=tokyonight" alt="Achmadqizwini's GitHub stats" /></a>
