@@ -26,3 +26,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="http://www.github.com/Achmadqizwini"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Achmadqizwini&show_icons=true&hide=&count_private=true&theme=tokyonight" alt="Achmadqizwini's GitHub stats" /> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Achmadqizwini&layout=compact&langs_count=8&theme=algolia"/> </a>
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/Achmadqizwini" alt="profile views"> 
+</p>
